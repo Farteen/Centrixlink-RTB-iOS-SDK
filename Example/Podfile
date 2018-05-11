@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'CentrixlinkRTB_Example' do
+  pod 'CentrixlinkRTB', :path => '../'
+
+  target 'CentrixlinkRTB_Tests' do
+    inherit! :search_paths
+
+#    pod 'Specta'
+#    pod 'Expecta'
+#    pod 'FBSnapshotTestCase'
+#    pod 'Expecta+Snapshots'
+  end
+end

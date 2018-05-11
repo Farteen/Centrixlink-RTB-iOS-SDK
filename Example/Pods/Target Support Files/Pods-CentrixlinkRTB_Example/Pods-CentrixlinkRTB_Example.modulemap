@@ -1,0 +1,6 @@
+framework module Pods_CentrixlinkRTB_Example {
+  umbrella header "Pods-CentrixlinkRTB_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

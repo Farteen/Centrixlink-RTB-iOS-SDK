@@ -1,0 +1,6 @@
+framework module Pods_CentrixlinkRTB_Tests {
+  umbrella header "Pods-CentrixlinkRTB_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
