@@ -48,7 +48,7 @@ end
 > 打开项目的Info.plist，增加 "View controller-based status bar appearance" 选项，并设置为 "No".
 
 
-6. 申请：[App ID、App Key](https://dashboard.centrixlink.com/login)
+6. 申请：[App ID、App Key](https://www.centrixlink.com)
 
 ## 集成说明
 
