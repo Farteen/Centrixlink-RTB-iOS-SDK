@@ -6,8 +6,8 @@
 //  Copyright © 2016年 Centrixlink. All rights reserved.
 //
 
-#ifndef _CLSLOG_H_
-#define _CLSLOG_H_
+#ifndef _CLRTBSLOG_H_
+#define _CLRTBSLOG_H_
 
 #ifdef __cplusplus
 #import <Foundation/Foundation.h>
