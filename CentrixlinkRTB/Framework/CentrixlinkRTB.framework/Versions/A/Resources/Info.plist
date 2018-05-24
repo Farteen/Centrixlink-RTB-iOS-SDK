@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildDateString</key>
-	<string>Tue May 22 16:32:14 CST 2018</string>
+	<string>Thu May 24 14:01:55 CST 2018</string>
 	<key>BuildMachineOSBuild</key>
 	<string>17E199</string>
 	<key>CFBundleDevelopmentRegion</key>
@@ -17,7 +17,7 @@
 	<key>CFBundleName</key>
 	<string>CentrixlinkRTB</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.0</string>
+	<string>1.0.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
