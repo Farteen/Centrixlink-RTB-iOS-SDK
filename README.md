@@ -6,7 +6,7 @@ iOS7+ 版本
 ### 准备工作
 
 #### Cocoapods管理
-CentrixlinkRTB iOS SDK可以通过Cocoapods工具自动操作完成。使用Cocoapods工具安装CentrixlinkRTB iOS SDK，只需在工程Podfile文件中添加以下代码并运行pod install命令即可。
+CentrixlinkRTB iOS SDK可以通过Cocoapods工具自动操作完成。使用Cocoapods工具安装CentrixlinkRTB iOS SDK，只需在工程Podfile文件中添加以下代码并运行pod install命令，添加CentrixlinkRTB/Assets/CLRTBBundle.bundle到Xcode项目中。
 
 ```
 source 'https://github.com/CocoaPods/Specs.git'
@@ -20,7 +20,8 @@ end
 #### 手动操作
 1.  从官网下载[Centrixlink_RTB_iOS_SDK](https://github.com/centrixlink/Centrixlink-RTB-iOS-SDK)文件。
 2.  解压缩CentrixlinkRTB框架(CentrixlinkRTB.framework)，并添加到XCode项目中。
-3.  添加以下依赖库:
+3.  添加CentrixlinkRTB/Assets/CLRTBBundle.bundle到Xcode项目中。
+4.  添加以下依赖库:
 
 ```
 * UIKit.framework
