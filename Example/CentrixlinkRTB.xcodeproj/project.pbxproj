@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		46E90A5E20BBB55500D3ACF6 /* CLRTBBundle.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 4682BF0920A5A073009CDDD2 /* CLRTBBundle.bundle */; };
 		4D1B44DAA1427A05D0A850A2 /* Pods_CentrixlinkRTB_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 60B1B518C2F1E65486AC19DA /* Pods_CentrixlinkRTB_Example.framework */; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58F195388D20070C39A /* CoreGraphics.framework */; };
@@ -281,6 +282,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46E90A5E20BBB55500D3ACF6 /* CLRTBBundle.bundle in Resources */,
 				873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */,
 				71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */,
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
