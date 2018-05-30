@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildDateString</key>
-	<string>Mon May 28 11:13:24 CST 2018</string>
+	<string>Wed May 30 16:55:18 CST 2018</string>
 	<key>BuildMachineOSBuild</key>
 	<string>17E199</string>
 	<key>CFBundleDevelopmentRegion</key>
@@ -39,9 +39,9 @@
 	<key>DTSDKName</key>
 	<string>iphoneos11.3</string>
 	<key>DTXcode</key>
-	<string>0930</string>
+	<string>0931</string>
 	<key>DTXcodeBuild</key>
-	<string>9E145</string>
+	<string>9E501</string>
 	<key>MinimumOSVersion</key>
 	<string>7.0</string>
 	<key>UIDeviceFamily</key>
