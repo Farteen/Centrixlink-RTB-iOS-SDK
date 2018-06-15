@@ -40,16 +40,16 @@ end
 * libsqlite3.dylib
 * libstdc++.dylib
 ```
-4.  添加编译参数
+5.  添加编译参数
 
 > 在Xcode中选择项目的Targets->Build Settings，配置Other Link Flags 增加 -ObjC -all_load
 
-5. 状态栏控制设置
+6. 状态栏控制设置
 
 > 打开项目的Info.plist，增加 "View controller-based status bar appearance" 选项，并设置为 "No".
 
 
-6. 申请：[App ID、App Key](https://www.centrixlink.com)
+7. 申请：[App ID、App Key](https://www.centrixlink.com)
 
 ## 集成说明
 
