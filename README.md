@@ -1,4 +1,4 @@
-# # Centrixlink-RTB-iOS-SDK
+## Centrixlink-RTB-iOS-SDK
 
 ### 平台支持
 iOS7+ 版本
